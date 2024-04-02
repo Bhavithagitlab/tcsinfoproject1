@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Helloindia {
 
-    public static void main(String[] args) {
+    public static void main(booolean[] args) {
 
         // Creates a reader instance which takes
         // input from standard input - keyboard
